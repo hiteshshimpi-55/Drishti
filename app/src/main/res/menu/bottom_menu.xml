@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_id"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/form_id"
+        android:icon="@drawable/form"
+        android:title="Form" />
+    <item
+        android:id="@+id/display_id"
+        android:icon="@drawable/display"
+        android:title="Display" />
+</menu>
